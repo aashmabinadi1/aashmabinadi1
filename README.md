@@ -1,4 +1,4 @@
-# Hi, I'm Aashma! 👋
+# Hi, I'm Aashma! 
 
  Computer Engineering Student
 
