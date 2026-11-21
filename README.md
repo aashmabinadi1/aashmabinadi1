@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aashma! 👋
 
-<!--
-**aashmabinadi1/aashmabinadi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Engineering Student
 
-Here are some ideas to get you started:
+Python Developer | Exploring AI/ML and Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning Python, Machine Learning, and Software Development.
+
+ I enjoy building practical projects and improving my problem-solving skills.
+
+###  Technologies & Tools
+- Python
+- Streamlit
+- HTML & CSS
+- Git & GitHub
+- Scikit-learn
+
+###  Featured Project
+**Personal AI Study Assistant**  
+An offline study assistant built with Python and Streamlit, featuring PDF summarization, MCQ quizzes, study planning, and progress tracking.
+
+
+ Always learning, building, and growing!
